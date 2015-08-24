@@ -1,3 +1,7 @@
+/**
+ * simple johnny-five program to make a servo sweep
+ * 
+ */
 var five = require("johnny-five");
 var board = new five.Board();
 
